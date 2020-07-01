@@ -1,6 +1,20 @@
 # xylophone
+![GitHub followers](https://img.shields.io/github/followers/AdityaBirangal?label=Follow&style=social)
+![GitHub forks](https://img.shields.io/github/forks/AdityaBirangal/champool?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AdityaBirangal/champool?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/AdityaBirangal?style=social)
 
-A new Flutter application.
+A Flutter to play Xylophone Tunes.
+
+## ScreenShots
+<table>
+  <tr>
+    <th>Demo</th>
+  </tr>
+  <tr>
+    <td><img src="Demo/Demo.png"/></td>
+  </tr>
+</table>
 
 ## Getting Started
 
