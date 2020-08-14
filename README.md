@@ -16,6 +16,9 @@ A Flutter to play Xylophone Tunes.
   </tr>
 </table>
 
+### Credits
+Special Thanks to [Angela Yu](https://www.linkedin.com/in/angela-yu-963a584b) for creating [Flutter Course](https://www.udemy.com/course/flutter-bootcamp-with-dart)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
